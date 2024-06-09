@@ -1,0 +1,23 @@
+[
+  {
+    "full_name": "Hermione Granger",
+    "country": "İngiltere",
+    "created_at": "1979-09-19T12:00:00.000Z",
+    "id": 5,
+    "email": "hermione.granger@hogwarts.edu"
+  },
+  {
+    "full_name": "Ron Weasley",
+    "country": "İngiltere",
+    "created_at": "1980-03-01T12:00:00.000Z",
+    "id": 6,
+    "email": "ron.weasley@hogwarts.edu"
+  },
+  {
+    "full_name": "Harry Potter",
+    "country": "İngiltere",
+    "created_at": "1980-07-31T11:59:00.000Z",
+    "id": 7,
+    "email": "harry.potter@hogwarts.edu"
+  }
+]
